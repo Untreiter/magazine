@@ -1,0 +1,10 @@
+#pos{
+    position: absolute;
+    width: 20%;
+    z-index: -1;
+    top:100px;
+    background-color: aquamarine;
+}
+#clear{
+    clear: right;
+}
